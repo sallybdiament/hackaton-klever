@@ -19,6 +19,7 @@ Para efetuar o download da Klever extension:
 3. Crie seu login seguindo os comandos da extensão.
 ````
 Na raiz do projeto, execute ```npm install ```.
+Para vizualizar no navegador, execute ```npm run dev ```.
 
 ## A ideia
 
